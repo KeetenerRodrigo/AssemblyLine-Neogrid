@@ -1,0 +1,3 @@
+br/com/assemblyline/controller/LineControllerTest.class
+br/com/assemblyline/util/DateUtilTest.class
+br/com/assemblyline/service/LineServiceTest.class
